@@ -1,0 +1,7 @@
+#+title: HTMX chat
+#+author: Damian Suarez
+
+This is a project to test HTMX in a chat server, with common lisp for the backend
+
+** License
+Apache License 2.0
